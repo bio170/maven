@@ -42,7 +42,7 @@ under the License.
     number of other development tools for reporting or the build
     process.
   </description>
-  <url>https://maven.apache.org/ref/${project.version}/</url>
+  <url>http://localhost:8081/repository/sample-rel/</url>
   <inceptionYear>2001</inceptionYear>
 
   <properties>
